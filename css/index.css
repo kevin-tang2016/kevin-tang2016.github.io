@@ -2,5 +2,22 @@ body{
 	background:#3a3b36;
 }
 img{
+	display: block;
 	width:100%;
+}
+/*404页面*/
+.not-found,.text-tips{
+	font-size:50px;
+	color:#444;
+	font-weight: bold;
+	line-height: 200px;
+	height:200px;
+	width:100%;
+	text-align: center;
+	letter-spacing: 3px;
+}
+.text-tips{
+	font-size:30px;
+	padding-top:30px;
+	letter-spacing: 5px;
 }
